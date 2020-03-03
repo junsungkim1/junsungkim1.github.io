@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jun Sung Kim / Site Title"
+title                    : "Jun Sung Kim / Ph.D. in Economics"
 title_separator          : "-"
 name                     : &name "Jun Sung Kim"
-description              : &description "I am personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "I am an Assistant Professor in the Department of Economics at Kyung Hee University. My research interests include network economics, econometrics of networks, applied microeconomics."
+url                      : https://junsungkim1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "junsungkim1/junsungkim1.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
