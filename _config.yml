@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jun Sung Kim / Ph.D. in Economics"
 title_separator          : "-"
 name                     : &name "Jun Sung Kim"
-description              : &description "Assistant Professor at Kyung Hee University."
+description              : &description "Assistant Professor at Kyung Hee University"
 url                      : https://junsungkim1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "junsungkim1/junsungkim1.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jun Sung Kim"
   avatar           : "kjs3.jpg"
-  bio              : "I am an Assistant Professor in the Department of Economics at Kyung Hee University. My research interests include network economics, econometrics of networks, and applied microeconomics.""
+  bio              : "I am an Assistant Professor in the Department of Economics at Kyung Hee University. My research interests include network economics, econometrics of networks, and applied microeconomics."
   location         : #"n"
   employer         : Kyung Hee University
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
