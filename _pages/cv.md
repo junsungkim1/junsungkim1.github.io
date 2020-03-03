@@ -9,41 +9,42 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Assistant Professor 
+  * Department of Economics, Kyung Hee University, 2020 --
+ % * Duties included: Tagging issues
+ % * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* Assistant Professor (Lecturer in Australia 
+  * Department of Econometrics and Business Statistics, Monash University, 2014 -- 2020 (with confirmation since Feb 2019)
+ % * Duties included: Tagging issues
+ % * Supervisor: Professor Git
+
+Education
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Ph.D in Economics, Cornell University, 2014 
+* M.A. in Economics, Cornell University, 2013
+* M.S. in Statistics, University of California, San Diego, 2008
+* B.B.A, Korea University, 2006
 
 Publications
 ======
+* To be completed
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Working papers  
 ======
+* To be completed
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Conferences and Seminars
+======
+* To be completed
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
@@ -56,4 +57,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* To be completed
