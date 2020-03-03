@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Jun Sung Kim"
-  avatar           : "profile.png"
-  bio              : "My biography for the left-hand sidebar"
+  avatar           : "kjs3.jpg"
+  bio              : "I am an Assistant Professor in the Department of Economics at Kyung Hee University. My research interests include network economics, econometrics of networks, and applied microeconomics.""
   location         : #"n"
   employer         : Kyung Hee University
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : junsungkim@khu.ac.kr
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
