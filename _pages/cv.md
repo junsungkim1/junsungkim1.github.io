@@ -13,13 +13,13 @@ Work experience
 ======
 * Assistant Professor 
   * Department of Economics, Kyung Hee University, 2020 --
- % * Duties included: Tagging issues
- % * Supervisor: Professor Git
+ <!-- * Duties included: Tagging issues
+ * Supervisor: Professor Git --!>
 
 * Assistant Professor (Lecturer in Australia 
   * Department of Econometrics and Business Statistics, Monash University, 2014 -- 2020 (with confirmation since Feb 2019)
- % * Duties included: Tagging issues
- % * Supervisor: Professor Git
+ <!-- % * Duties included: Tagging issues
+ % * Supervisor: Professor Git --!>
 
 Education
 ======
@@ -31,29 +31,30 @@ Education
 Publications
 ======
 * To be completed
-  <ul>{% for post in site.publications %}
+<!-- <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> --!>
   
 Working papers  
 ======
 * To be completed
-  <ul>{% for post in site.publications %}
+<!--  <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> --!>
   
 Conferences and Seminars
 ======
 * To be completed
-  <ul>{% for post in site.talks %}
+<!--  <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> --!>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+* To be completed
+<!--  <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> --!>
   
 Service and leadership
 ======
