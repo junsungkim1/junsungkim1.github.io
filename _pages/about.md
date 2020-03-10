@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the Department of Economics at Kyung Hee University. My research interests include network economics, econometrics of networks, and applied microeconomics. 
+I am an assistant professor in the Department of Economics at Kyung Hee University. My research interests include network economics, econometrics of networks, and applied microeconomics. 
 
